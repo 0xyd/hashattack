@@ -1,0 +1,8 @@
+dill
+numpy
+pandas
+gensim
+torch
+tqdm
+flashtext
+seaborn
